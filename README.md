@@ -55,4 +55,4 @@ You can see that the results of the program are correct.
 The entire console output is also saved into a file **data.txt** located in the same directory as the main.py file, because the output can be so long that the console shows just a part of it.  
 
 ## Documentation
-A lot of specific comments are written in the [main.py](main.py) file.
+A lot of specific comments are written in the [main.py](main.py) file, but you can't really see them here on GitHub, so I recommend reading them in Visual Studio or your other code editor.
