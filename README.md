@@ -10,6 +10,8 @@ If you have Python, then just simply run [main.py](main.py).
 Duplicate Files can be used to find files with specific properties like name, date/time and size. Below are some examples to give you a better understading of what it looks like.
 
 Here is a **Test_directory** with some files and directories.
+
+
 <img src="images/image1.png" />
 
 
@@ -20,8 +22,12 @@ Here is a **Test_directory** with some files and directories.
 
 
 **Test_directory/New Folder/lol**
+
+
 <img src="images/image3.png" />
 
 
 **Test_directory/New folder (2)**
+
+
 <img src="images/image4.png" />
