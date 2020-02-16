@@ -8,3 +8,5 @@ All you need is **Python**. You can download it [here](https://www.python.org/do
 If you have Python, then just simply run [main.py](main.py).
 ## Usage
 Duplicate Files can be used to find files with specific properties like name, date/time and size. Below are some examples to give you a better understading of what it looks like.
+
+![image1](images/image1.png)
