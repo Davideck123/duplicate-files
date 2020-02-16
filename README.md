@@ -16,9 +16,10 @@ Here is a **Test_directory** with some files and directories.
 **Test_directory/New Folder**
 <img src="images/image2.png" />
 
+
 **Test_directory/New Folder/lol**
 <img src="images/image3.png" />
 
 
-**Test_drectory/New folder (2)**
+**Test_directory/New folder (2)**
 <img src="images/image4.png" />
