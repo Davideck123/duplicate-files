@@ -37,3 +37,9 @@ Let's search the **Test_directory** by name - "hello.txt" (uppercase/lowercase d
 
 
 <img src="images/console1.png" />
+
+
+Now we will add another parameter - size (7 kB).
+
+
+<img src="images/console2.png" />
