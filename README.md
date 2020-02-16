@@ -9,7 +9,11 @@ If you have Python, then just simply run [main.py](main.py).
 ## Usage
 Duplicate Files can be used to find files with specific properties like name, date/time and size. Below are some examples to give you a better understading of what it looks like.
 
-Here is a **Test directory** with some files and directories.
+Here is a **Test_directory** with some files and directories.
 ![image1](images/image1.png)  
-
+**Test_directory/New Folder**
 ![image2](images/image2.png)
+**Test_directory/New Folder/lol**
+![image3](images/image3.png)
+**Test_drectory/New folder (2)**
+![image4](images/image4.png
