@@ -31,3 +31,9 @@ Here is a **Test_directory** with some files and directories.
 
 
 <img src="images/image4.png" />
+
+
+Let's search the **Test_directory** by name - "hello.txt" (uppercase/lowercase don't matter). Here's the result.
+
+
+<img src="images/console1.png" />
