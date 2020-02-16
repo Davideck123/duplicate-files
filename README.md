@@ -48,4 +48,4 @@ Now we will add another parameter - size (7 kB).
 Finally, we will add the date/time (16.2.2020 20:48).
 
 
-<img=src"images/console3.png" />
+<img src="images/console3.png" />
