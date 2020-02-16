@@ -36,4 +36,4 @@ Here is a **Test_directory** with some files and directories.
 Let's search the **Test_directory** by name - "hello.txt" (uppercase/lowercase don't matter). Here's the result.
 
 
-<img src="images/console1.png" />
+
