@@ -14,6 +14,8 @@ Here is a **Test_directory** with some files and directories.
 
 
 **Test_directory/New Folder**
+
+
 <img src="images/image2.png" />
 
 
