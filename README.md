@@ -50,3 +50,9 @@ Finally, we will add the date/time (16.2.2020 20:48).
 
 <img src="images/console3.png" />
 You can see that the results of the program are correct.
+
+
+The entire console output is also saved into a file **data.txt** located in the same directory as the main.py file, because the output can be so long that the console shows just a part of it.  
+
+## Documentation
+A lot of specific comments are written in the [main.py](main.py) file.
