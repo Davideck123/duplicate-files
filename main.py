@@ -86,7 +86,7 @@ def getDirectory(path):     # scans the given location and puts all the files an
             f.write(line + "\n")
     return directoryList
 
-def switch(i, object):      # substitution of the switch statement (which is not included in Python), helps to choose which parameter you want to change
+def switch(i, object):      # substitution for the switch statement (which is not included in Python), helps to choose which parameter you want to change
     options = {1:object.changeName, 2:object.changeDateTime, 3:object.changeSize}
     f = options.get(i, lambda: print("Invalid choice!"))
     return f()  # returns a function of the created fileExample object
