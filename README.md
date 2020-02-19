@@ -37,7 +37,7 @@ Here is a **Test_directory** with some files and directories.
 
 Let's search the **Test_directory** by name - "hello.txt" (uppercase/lowercase don't matter). Here's the result.
 
-![console1](images/console1.png)
+![console1](images/console1.png = 250x250)
 
 
 Now we will add another parameter - size (7 kB).
