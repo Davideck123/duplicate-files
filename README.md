@@ -4,7 +4,7 @@
 ![Windows](https://img.shields.io/badge/platform-windows-lightgrey)
 
 ## Summary
-This program searches through a given folder including it's subfolders and prints a list of duplicate files with their locations.
+This program searches through a given folder including it's subfolders and prints a list of duplicate files with their locations and some info.
 Files are duplicate if they've the same name, size or date/time.
 You have to choose at least one of these parameters (other parameters are optional) before the start of searching.
 
