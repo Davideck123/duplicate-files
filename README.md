@@ -1,4 +1,6 @@
 # Duplicate Files
+[![Python 3.8](https://img.shields.io/badge/python-3.8-blue)](https://www.python.org/downloads/release/python-380/)
+![Windows](https://img.shields.io/badge/platform-windows-lightgrey)
 ## Summary
 This program searches through a given folder including it's subfolders and prints a list of duplicate files with their locations.
 Files are duplicate if they've the same name, size or date/time.
