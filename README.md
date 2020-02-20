@@ -35,7 +35,7 @@ Here is a **Test_directory** with some files and directories.
 ![img4](images/image4.png)
 
 
-Let's search the **Test_directory** by name - "hello.txt" (you have to write the whole name incuding the file extension, uppercase/lowercase don't matter). Here's the result.
+Let's search the **Test_directory** by name - "hello.txt" (you have to write the whole name including the file extension, uppercase/lowercase don't matter). Here's the result.
 
 ![console1](images/console1.png)
 
