@@ -141,7 +141,7 @@ def scan(object, path, duplicate_files=[], fileFoundInThisDir=False):       # th
 
 def printFiles(listOfFiles):        # prints the duplicate files with additional information
     count = 1
-    with open("data.txt", "a", encoding="utf-8") as f:      # the information can be so long that they can't be displayed in the console, that's why everything is saved into a text file
+    with open("data.txt", "a", encoding="utf-8") as f:      # the information can be so long that it can't be displayed in the console, that's why everything is saved into a text file
         for entry in listOfFiles:
             firstLine = f'{count}) {entry.name}'
             secondLine = f'    Path: {entry.path}'
