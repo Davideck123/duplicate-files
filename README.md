@@ -38,16 +38,19 @@ Here is a **Test_directory** with some files and directories.
 Let's search the **Test_directory** by name - "hello.txt" (you have to write the whole name including the file extension, uppercase/lowercase don't matter). Here's the result.
 
 [comment]: <![console1](images/console1.png)>
+<img src="images/console1.png" alt="console1" width="800">
 
 
 Now we will add another parameter - size (7 kB).
 
 [comment]: <![console2](images/console2.png)>
+<img src="images/console2.png" alt="console2" width="800">
 
 
 Finally, we will add the date/time (16.2.2020 20:48).
 
 [comment]: <![console3](images/console3.png)>
+<img src="images/console3.png" alt="console3" width="800">
 
 
 You can see that the results of the program are correct.
