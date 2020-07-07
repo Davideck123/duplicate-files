@@ -50,8 +50,6 @@ F:/Test_directory
 
 <p align="center">
         <img src="images/image2.png"><br><br>
-        &nbsp;
-        &nbsp;
         <img src="images/image3.png" align="right"><br><br>
         &nbsp;
         &nbsp;
