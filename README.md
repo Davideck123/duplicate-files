@@ -49,10 +49,10 @@ F:/Test_directory
 ![img1](images/image1.png)
 
 <p align="center">
-        <img src="images/image2.png">
+        <img src="images/image2.png"><br><br>
         &nbsp;
         &nbsp;
-        <img src="images/image3.png" align="right">
+        <img src="images/image3.png" align="right"><br><br>
         &nbsp;
         &nbsp;
         <img src="images/image4.png">
