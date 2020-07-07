@@ -53,7 +53,7 @@ F:/Test_directory
 </p>
   
 <p align="right">
-        <img src="images/image3.png"><br><br>
+        <img src="images/image3.png"><br>
 </p>
 
 <p align="center">
