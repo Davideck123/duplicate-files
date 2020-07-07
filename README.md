@@ -52,8 +52,10 @@ F:/Test_directory
         <img src="images/image2.png">
 </p>
   
-<img src="images/image3.png" align="right">
-         
+<p align="right">
+        <img src="images/image3.png"><br><br>
+</p>
+
 <p align="center">
         <img src="images/image4.png">
 </p>
