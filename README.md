@@ -51,7 +51,9 @@ F:/Test_directory
 <p align="center">
         <img src="images/image2.png">
         &nbsp;
+        &nbsp;
         <img src="images/image3.png" align="right">
+        &nbsp;
         &nbsp;
         <img src="images/image4.png">
 </p>
