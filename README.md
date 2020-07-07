@@ -50,11 +50,8 @@ F:/Test_directory
 
 
 <p align="center">
-        <strong>Test_directory/New Folder</strong><br>
-        <img src="images/image2.png" align="center">
-        <strong>Test_directory/New Folder/lol</strong><br><br>
-        <img src="images/image3.png" align="right">
-        <!--<strong>Test_directory/New folder (2)</strong><br>-->
+        <img src="images/image2.png" align="center"><br><br>
+        <img src="images/image3.png" align="right"><br><br>
         <img src="images/image4.png">
 </p>
 
