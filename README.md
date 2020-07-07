@@ -49,15 +49,15 @@ F:/Test_directory
 ![img1](images/image1.png)
 
 <p align="center">
-        <img src="images/image2.png"><br><br>
-</p>  
-
-<img src="images/image3.png" align="right">  
-
+        <img src="images/image2.png">
+</p>
+  
+<img src="images/image3.png" align="right">
+  
 <p align="center">
         <img src="images/image4.png">
-</p>  
-
+</p>
+  
 Let's search the **Test_directory** by name - "hello.txt" (you have to write the whole name including the file extension, uppercase/lowercase don't matter). Here's the result.
 
 
