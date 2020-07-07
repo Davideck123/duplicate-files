@@ -52,7 +52,8 @@ F:/Test_directory
 <p align="center">
         <img src="images/image2.png" align="center"><br><br>
         <img src="images/image3.png" align="right">
-        <br><br><img src="images/image4.png">
+        <br><br>
+        <img src="images/image4.png">
 </p>
 
 Let's search the **Test_directory** by name - "hello.txt" (you have to write the whole name including the file extension, uppercase/lowercase don't matter). Here's the result.
