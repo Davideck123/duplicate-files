@@ -15,29 +15,67 @@ If you have Python, then just simply run [main.py](main.py).
 ## Usage
 Duplicate Files can be used to find files with specific properties like name, date/time and size. Below are some examples to give you a better understading of what it looks like.
 
+## Examples
+
 Here is a **Test_directory** with some files and directories.
+
+```
+F:/Test_directory
+│   index_2.txt
+│   index_3.txt
+│   Hello.txt
+│   LoL.txt
+│   ====.txt
+│   %%%%.txt
+│   kkkk.txt
+│   Web.txt
+│   Web.html
+│   default.txt
+│   New_web.txt
+│
+├───New Folder
+│   │   hello.xlsx
+│   │   lOl.txt
+│   │   hello.txt
+│   │
+│   └───lol
+│           HELLO.txt
+│
+└───New folder (2)
+        hello.txt
+        random_name.txt
+```
 
 ![img1](images/image1.png)
 
 
 **Test_directory/New Folder**
 
-![img2](images/image2.png)
+[comment]: <![img2](images/image2.png)>
 
+<p align="center">
+  <img src="images/image2.png" align="center">
+</p>
 
 **Test_directory/New Folder/lol**
 
-![img3](images/image3.png)
+[comment]: <![img3](images/image3.png)>
+
+<img src="images/image3.png" align="right">
 
 
 **Test_directory/New folder (2)**
 
-![img4](images/image4.png)
+[comment]: <![img4](images/image4.png)>
 
+<p align="center">
+  <img src="images/image4.png">
+</p>
 
 Let's search the **Test_directory** by name - "hello.txt" (you have to write the whole name including the file extension, uppercase/lowercase don't matter). Here's the result.
 
 [comment]: <![console1](images/console1.png)>
+
 <img src="images/console1.png" alt="console1" width="800">
 
 
