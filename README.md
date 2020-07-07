@@ -49,45 +49,36 @@ F:/Test_directory
 ![img1](images/image1.png)
 
 
-**Test_directory/New Folder**
-
-[comment]: <![img2](images/image2.png)>
-
 <p align="center">
-  <img src="images/image2.png" align="center">
+        <strong>Test_directory/New Folder</strong><br>
+        <img src="images/image2.png" align="center">
 </p>
 
-**Test_directory/New Folder/lol**
-
-[comment]: <![img3](images/image3.png)>
-
-<img src="images/image3.png" align="right">
-
-
-**Test_directory/New folder (2)**
-
-[comment]: <![img4](images/image4.png)>
+<p align="right">
+        <strong>Test_directory/New Folder/lol</strong><br>
+        <img src="images/image3.png">
+</p>
 
 <p align="center">
-  <img src="images/image4.png">
+        <strong>Test_directory/New folder (2)</strong><br>
+        <img src="images/image4.png">
 </p>
 
 Let's search the **Test_directory** by name - "hello.txt" (you have to write the whole name including the file extension, uppercase/lowercase don't matter). Here's the result.
 
-[comment]: <![console1](images/console1.png)>
 
 <img src="images/console1.png" alt="console1" width="800">
 
 
 Now we will add another parameter - size (7 kB).
 
-[comment]: <![console2](images/console2.png)>
+
 <img src="images/console2.png" alt="console2" width="800">
 
 
 Finally, we will add the date/time (16.2.2020 20:48).
 
-[comment]: <![console3](images/console3.png)>
+
 <img src="images/console3.png" alt="console3" width="800">
 
 
