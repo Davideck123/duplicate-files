@@ -52,14 +52,8 @@ F:/Test_directory
 <p align="center">
         <strong>Test_directory/New Folder</strong><br>
         <img src="images/image2.png" align="center">
-</p>
-
-<p align="right">
         <strong>Test_directory/New Folder/lol</strong><br>
-        <img src="images/image3.png">
-</p>
-
-<p align="center">
+        <img src="images/image3.png" align="right">
         <strong>Test_directory/New folder (2)</strong><br>
         <img src="images/image4.png">
 </p>
